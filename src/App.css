@@ -1,0 +1,15 @@
+.testo {
+    position: relative; padding: 1.4em 1.8em; margin: 4em 0; border-radius: 8px; background: rgba(255, 255, 255, 0.7);
+	}
+	.testo img {
+ 		display: block; margin: -60px auto 10px auto; width: auto; max-height: 72px; border-radius: 50%;
+		}
+	.testo h4 {
+		position: relative; text-align: center; margin: 0; font-size: 15px; font-weight: 400; color: #00000059;
+		}
+	.testo h5 {
+		margin-top: 0; font-size: 12px; font-weight: 400; text-align: center; color: #00000059; text-transform: uppercase;
+		}
+	.testo p {
+		position: relative; margin: 1em 0 0.2em 0; font-size: 14px; color: #00000059;
+		}
